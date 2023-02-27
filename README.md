@@ -18,6 +18,12 @@ Find the documentation of The-Honeypot at URL
 The log data that we collected over a period of running our Windows VM is included in this secion in the form of a csv file. This log data was further used in the Microsoft Azure Sentinel Cloud platform to simulate the collected data of cyber attacks on the world map.
 Find the output log data results here: 
 
-
-
+## References
+1. CISA. What is Cybersecurity? | CISA. www.cisa.gov. Published November 14, 2019. https://www.cisa.gov/uscert/ncas/tips/ST04-001
+2. Bošnjak, L., Sres, J. & Brumen, B. (2018). Brute-force and dictionary attack on hashed real-world passwords. 1161-1166. 10.23919/MIPRO.2018.8400211. 
+‌3. Grover V. (2020) An Efficient Brute Force Attack Handling Techniques for Server Virtualization. SSRN Electronic Journal. doi:https://doi.org/10.2139/ssrn.3564447
+4. Madakor J. (2022) Failed RDP to IP Geolocation Information. GitHub. https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1
+5. Madakor J. (2021), SIEM Tutorial for Beginners | Azure Sentinel Tutorial MAP with LIVE CYBER ATTACKS! www.youtube.com. Accessed February 24, 2023. https://www.youtube.com/watch?v=RoZeVbbZ0o0&t=1938s
+6. Free IP Geolocation API and Accurate IP Geolocation Database. ipgeolocation.io. Published 2021. Accessed February 24, 2023. https://ipgeolocation.io
+7. Arntz, P. (2021). RDP abused for ddos attacks: Malwarebytes labs. Malwarebytes. Retrieved February 27, 2023, from https://www.malwarebytes.com/blog/news/2021/01/rdp-abused-for-ddos-attacks
 

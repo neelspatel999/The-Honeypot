@@ -30,3 +30,8 @@ Find the output log data results here:
 6. Free IP Geolocation API and Accurate IP Geolocation Database. ipgeolocation.io. Published 2021. Accessed February 24, 2023. https://ipgeolocation.io
 7. Arntz, P. (2021). RDP abused for ddos attacks: Malwarebytes labs. Malwarebytes. Retrieved February 27, 2023, from https://www.malwarebytes.com/blog/news/2021/01/rdp-abused-for-ddos-attacks
 
+## Acknowlegements
+Michael Veenstra, Instructor, Fullstack Academy
+Colin Reyes, Co-Instructor, Fullstack Academy
+Garbo Loo, Mentor, Fullstack Academy
+Josh Madakor, Instructor, Software, Content Creator - Youtuber

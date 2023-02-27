@@ -1,5 +1,8 @@
 # The-Honeypot
 
+## Contributors
+Sam Noureddini, Neel Patel, Alan Kelly and Diego Hernandez
+
 ## Overview
 This project focuses on simulating the failed brute-force RDP logins on a world map with their location based on cyber attacker's geolocation data collected in the logs and the magnitude of attacks from each location all over the globe. 
 

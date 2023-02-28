@@ -32,4 +32,4 @@ Find the output log data results here: https://github.com/neelspatel999/The-Hone
 1. Michael Veenstra, Lead Instructor, Fullstack Academy
 2. Colin Reyes, Co-Instructor, Fullstack Academy
 3. Garbo Loo, Mentor, Fullstack Academy
-4. Josh Madakor, Instructor, Software, Content Creator - Youtuber
+4. Josh Madakor, Instructor, Software Engineer, Content Creator - Youtuber

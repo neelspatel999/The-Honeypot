@@ -14,8 +14,7 @@ With the use of world map visualization on the Azure cloud platform, the attempt
 ## Documentation
 
 This is a capstone group project that has been documented by group members with Introduction, Method, Results and Discussion in a Research-oriented approach. 
-Find the documentation of The-Honeypot at URL
-
+Find the documentation of The-Honeypot at https://github.com/neelspatel999/The-Honeypot/blob/main/The_Honeypot_A_redteamblueteam-2023-02-22-19-45.docx.pdf
 ## Results (Output)
 
 The log data that we collected over a period of running our Windows VM is included in this secion in the form of a csv file. This log data was further used in the Microsoft Azure Sentinel Cloud platform to simulate the collected data of cyber attacks on the world map.

@@ -18,8 +18,7 @@ Find the documentation of The-Honeypot at https://github.com/neelspatel999/The-H
 ## Results (Output)
 
 The log data that we collected over a period of running our Windows VM is included in this secion in the form of a csv file. This log data was further used in the Microsoft Azure Sentinel Cloud platform to simulate the collected data of cyber attacks on the world map.
-Find the output log data results here: 
-
+Find the output log data results here: https://github.com/neelspatel999/The-Honeypot/blob/main/failed_rdp_with_geo.csv
 ## References
 1. CISA. What is Cybersecurity? | CISA. www.cisa.gov. Published November 14, 2019. https://www.cisa.gov/uscert/ncas/tips/ST04-001
 2. Bošnjak, L., Sres, J. & Brumen, B. (2018). Brute-force and dictionary attack on hashed real-world passwords. 1161-1166. doi:https://doi.org/10.23919/MIPRO.2018.8400211 
@@ -30,7 +29,7 @@ Find the output log data results here:
 7. Arntz, P. (2021). RDP abused for ddos attacks: Malwarebytes labs. Malwarebytes. Retrieved February 27, 2023, from https://www.malwarebytes.com/blog/news/2021/01/rdp-abused-for-ddos-attacks
 
 ## Acknowlegements
-1. Michael Veenstra, Instructor, Fullstack Academy
+1. Michael Veenstra, Lead Instructor, Fullstack Academy
 2. Colin Reyes, Co-Instructor, Fullstack Academy
 3. Garbo Loo, Mentor, Fullstack Academy
 4. Josh Madakor, Instructor, Software, Content Creator - Youtuber

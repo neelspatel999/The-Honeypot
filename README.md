@@ -15,10 +15,18 @@ With the use of world map visualization on the Azure cloud platform, the attempt
 
 This is a capstone group project that has been documented by group members with Introduction, Method, Results and Discussion in a Research-oriented approach. 
 Find the documentation of The-Honeypot at https://github.com/neelspatel999/The-Honeypot/blob/main/The_Honeypot_A_redteamblueteam-2023-02-22-19-45.docx.pdf
+
 ## Results (Output)
 
 The log data that we collected over a period of running our Windows VM is included in this secion in the form of a csv file. This log data was further used in the Microsoft Azure Sentinel Cloud platform to simulate the collected data of cyber attacks on the world map.
 Find the output log data results here: https://github.com/neelspatel999/The-Honeypot/blob/main/failed_rdp_with_geo.csv
+
+With the help of the World Map Visualization feature, we plotted the failed rdp login attempts based on the collected data to see the physical location and the magnitude of the failed rdp login attempts. The following figure below was taken on the last day before taking the virtual machine was deleted to see how many failed rdp login attempts from around the globe were made through the period of 8 days. 
+
+![Screenshot 2023-03-01 at 5 42 03 AM](https://user-images.githubusercontent.com/67388292/222118141-08d541e6-4a30-4046-a508-d812b7ccc591.png)
+
+                                World Map on the last day before the deployed VM was deleted
+
 ## References
 1. CISA. What is Cybersecurity? | CISA. www.cisa.gov. Published November 14, 2019. https://www.cisa.gov/uscert/ncas/tips/ST04-001
 2. Bošnjak, L., Sres, J. & Brumen, B. (2018). Brute-force and dictionary attack on hashed real-world passwords. 1161-1166. doi:https://doi.org/10.23919/MIPRO.2018.8400211 

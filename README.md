@@ -25,7 +25,7 @@ With the help of the World Map Visualization feature, we plotted the failed rdp 
 
 ![Screenshot 2023-03-01 at 5 42 03 AM](https://user-images.githubusercontent.com/67388292/222118141-08d541e6-4a30-4046-a508-d812b7ccc591.png)
 
-                                World Map on the last day before the deployed VM was deleted
+                            World Map on the last day before the deployed VM was deleted
 
 ## References
 1. CISA. What is Cybersecurity? | CISA. www.cisa.gov. Published November 14, 2019. https://www.cisa.gov/uscert/ncas/tips/ST04-001

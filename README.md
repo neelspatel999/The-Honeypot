@@ -3,6 +3,10 @@
 ## Contributors
 Sam Noureddini, Neel Patel, Alan Kelly and Diego Hernandez
 
+## Video Presentation
+
+(https://youtu.be/F46_Qmxdk10)
+
 ## Overview
 This project focuses on simulating the failed brute-force RDP logins on a world map with their location based on cyber attacker's geolocation data collected in the logs and the magnitude of attacks from each location all over the globe. 
 
